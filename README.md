@@ -27,13 +27,13 @@ Usage:
 
 3. Execution:
 
-    - Run the script:
+  - Run the script:
 
 ```bash
     node dist/index.js domain1.com domain2.com ...
 ```
 
-    - To stop the script press CTRL+C
+  - To stop the script press CTRL+C
 
 
 Development
